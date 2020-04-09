@@ -1,0 +1,14 @@
+{
+  "name": "07-restserver",
+  "version": "1.0.0",
+  "description": "RestServer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "https://www.wisaar.es <wmsalvatierra@msn.com> (https://www.wisaar.es/)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
