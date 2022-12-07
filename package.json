@@ -9,6 +9,6 @@
   "author": "https://www.wisaar.es <wmsalvatierra@msn.com> (https://www.wisaar.es/)",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   }
 }
